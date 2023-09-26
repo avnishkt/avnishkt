@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **avnishkt16@gmail.com**
 
-- 📄 Know about my experiences [https://avnishkt.github.io/resume/](https://avnishkt.github.io/resume/)
+- 📄 Know about my experiences [https://avnishkt.github.io/resume/](https://avnishkt.github.io/avnishkt/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
