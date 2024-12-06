@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **samwad_chat**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently Searching **Job/i**
 
 - 💬 Ask me about **nodejs,expressjs,mongodb**
 
 - 📫 How to reach me **avnishkt16@gmail.com**
 
-- 📄 Know about my experiences [https://avnishkt.github.io/resume/](https://avnishkt.github.io/avnishkt/)
+- 📄 Know about my experiences [(https://avnishkt.vercel.app/)](https://avnishkt.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
